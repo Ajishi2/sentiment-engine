@@ -18,7 +18,6 @@ tweepy==4.14.0
 newsapi-python==0.2.7
 python-dotenv==1.0.0
 schedule==1.2.1
-logging==0.4.9.6
 dataclasses==0.6
 typing-extensions==4.9.0
 scipy==1.11.4
